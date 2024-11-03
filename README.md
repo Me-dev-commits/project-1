@@ -18,3 +18,13 @@ This repository contains data about GitHub users in Sydney with over 100 followe
 
 
 ### *CODES FOR Q1 TO Q16 HAVE BEEN UPLODED.*
+
+## MAKING OF THIS PROJECT
+API Access: A GitHub personal access token was set up for authenticated API requests. 
+Data Collection: Data of Sydney users with more than 100 followers users was collected by scraping using GitHub API. Upto 500 repositories most recently pushed repositories per user were collected.
+Script Runing: The script was run to collect user details and repository data. It was then saved to users.csv and repositories.csv.
+Data Cleaning: The data was processed and cleaned as and when required.
+
+## RESULTS 
+1. Java Script was found to be the most commonly iused script among the users in Sydney. 
+2. Type Script was found to be the second most commonly used script among the users in Sydney.
