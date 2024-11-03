@@ -28,3 +28,10 @@ Data Cleaning: The data was processed and cleaned as and when required.
 ## RESULTS 
 1. Java Script was found to be the most commonly iused script among the users in Sydney. 
 2. Type Script was found to be the second most commonly used script among the users in Sydney.
+3. Developers who had enabled both - wiki features and projects were found to be perceived as having better project management skills.
+
+## RECOMMENDATIONS TO DEVELOPERS
+- Enabling both - wiki features and projects give the impression that the developer has better project management skills. This also helps in boosting collaboration.
+-  When documentation is detailed and clear, it helps in increasing project visibility.
+## RECOMMENDATION TO RECRUITERS
+-  Leader_strength, here defined as( followers / (1 + following)) can be an indication of good developers who are respected by the community. Recruiters may focus on these developers. 
